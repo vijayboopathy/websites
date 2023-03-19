@@ -45,11 +45,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "static/favicon/favicon.ico"
-    favicon16x16: "static/favicon/favicon-16x16.png"
-    favicon32x32: "static/favicon/favicon-32x32.png"
-    apple_touch_icon: "static/favicon/apple-touch-icon.png"
-    safari_pinned_tab: "static/favicon/favicon.ico"
+    favicon: "https://github.com/vijayboopathy/websites/blob/main/vijay.run/static/favicon/favicon.ico"
+    favicon16x16: "https://github.com/vijayboopathy/websites/blob/main/vijay.run/static/favicon/favicon-16x16.png"
+    favicon32x32: "https://github.com/vijayboopathy/websites/blob/main/vijay.run/static/favicon/favicon-32x32.png"
+    apple_touch_icon: "https://github.com/vijayboopathy/websites/blob/main/vijay.run/static/favicon/apple-touch-icon.png"
+    safari_pinned_tab: "https://github.com/vijayboopathy/websites/blob/main/vijay.run/static/favicon/favicon.ico"
 
   label:
     text: "Home"
@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Vibe"
     subtitle: "Everything Reliability"
-    imageUrl: "https://github.com/vijayboopathy/websites/raw/main/vijay.run/static/img/me.jpg"
+    imageUrl: "https://github.com/vijayboopathy/websites/blob/main/vijay.run/static/img/me.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: me
@@ -74,11 +74,11 @@ params:
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://twitter.com/vijayboopathy"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/vibee/"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/vijayboopathy"
 
   analytics:
     google:
@@ -94,7 +94,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/vijayboopathy/websites/blob/main/vijay.run/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -118,7 +118,7 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
+    - identifier: resume
       name: example.org
       url: https://example.org
       weight: 30
