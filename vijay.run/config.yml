@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: "Vibe: Everything Reliability..."
+  title: "Vibe: Everything Reliability"
   description: "ExampleSite description"
   keywords: [Blog, SRE, Site Reliability Engineering, DevOps]
   author: Vijayboopathy Elangovan
