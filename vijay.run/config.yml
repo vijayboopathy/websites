@@ -1,5 +1,5 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
+baseURL: "https://vijay.run"
+title: "Vibe: Everything Reliability..."
 paginate: 5
 theme: PaperMod
 
@@ -16,10 +16,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
+  title: "Vibe: Everything Reliability..."
   description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  keywords: [Blog, SRE, Site Reliability Engineering, DevOps]
+  author: Vijayboopathy Elangovan
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -45,11 +45,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "static/favicon/favicon.ico"
+    favicon16x16: "static/favicon/favicon-16x16.png"
+    favicon32x32: "static/favicon/favicon-32x32.png"
+    apple_touch_icon: "static/favicon/apple-touch-icon.png"
+    safari_pinned_tab: "static/favicon/favicon.ico"
 
   label:
     text: "Home"
@@ -58,9 +58,9 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
+    enabled: true # needs to be explicitly set
+    title: "Vibe"
+    subtitle: "Everything Reliability"
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120

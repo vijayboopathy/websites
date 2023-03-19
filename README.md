@@ -17,7 +17,12 @@ git submodule add --depth=1 https://github.com/adityatelange/hugo-PaperMod.git t
 git submodule update --remote --merge
 ```
 
-## Step 4 - Update config
+## Step 4 - Remove existing config
+```
+rm -f config.toml
+```
+
+## Step 5 - Update config
 ```
 vim config.yml
 
@@ -161,7 +166,7 @@ markup:
     # style: monokai
 ```
 
-## Step 4 - Test Hugo server
+## Step 6 - Test Hugo server
 ```
 hugo server
 ```
