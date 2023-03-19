@@ -49,11 +49,11 @@ params:
     favicon16x16: "https://ik.imagekit.io/ob78dnebo/favicon-16x16.png?updatedAt=1679223839645"
     favicon32x32: "https://ik.imagekit.io/ob78dnebo/favicon-32x32.png?updatedAt=1679223839690"
     apple_touch_icon: "https://ik.imagekit.io/ob78dnebo/apple-touch-icon.png?updatedAt=1679223839693"
-    safari_pinned_tab: "https://ik.imagekit.io/ob78dnebo/apple-touch-icon.png?updatedAt=1679223839693"
+    safari_pinned_tab: "https://ik.imagekit.io/ob78dnebo/apple-touch-icon.png?updatedAt=1679223839693g"
 
   label:
     text: "Home"
-    icon: https://ik.imagekit.io/ob78dnebo/apple-touch-icon.png?updatedAt=1679223839693
+    icon: ""
     iconHeight: 35
 
   # profile-mode
