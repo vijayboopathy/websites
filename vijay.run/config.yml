@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Vibe"
     subtitle: "Everything Reliability"
-    imageUrl: "https://github.com/vijayboopathy/websites/blob/main/vijay.run/static/img/me.jpg"
+    imageUrl: "https://pbs.twimg.com/profile_images/1637398070152364035/R8q224nA_400x400.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: me
