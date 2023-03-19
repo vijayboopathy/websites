@@ -1,4 +1,4 @@
-baseURL: "https://vijay.run"
+baseURL: "https://www.vijay.run"
 title: "Vibe: Everything Reliability..."
 paginate: 5
 theme: PaperMod
@@ -118,10 +118,6 @@ menu:
       name: resume
       url: https://registry.jsonresume.org/vijayboopathy?theme=kendall
       weight: 20
-    # - identifier: tags
-    #   name: tags
-    #   url: /tags/
-    #   weight: 20
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
