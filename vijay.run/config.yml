@@ -61,10 +61,10 @@ params:
     enabled: true # needs to be explicitly set
     title: "Vibe"
     subtitle: "Everything Reliability"
-    imageUrl: "<img location>"
+    imageUrl: "https://github.com/vijayboopathy/websites/raw/main/vijay.run/static/img/me.jpg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: me
     buttons:
       - name: Posts
         url: posts
