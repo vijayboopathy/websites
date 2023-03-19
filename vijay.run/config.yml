@@ -65,11 +65,7 @@ params:
     imageWidth: 120
     imageHeight: 120
     imageTitle: me
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+    buttons: []
 
   # home-info mode
   homeInfoParams:
