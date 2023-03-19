@@ -116,7 +116,7 @@ menu:
       weight: 10
     - identifier: resume
       name: resume
-      url: https://registry.jsonresume.org/vijayboopathy
+      url: https://registry.jsonresume.org/vijayboopathy?theme=kendall
       weight: 20
     # - identifier: tags
     #   name: tags
