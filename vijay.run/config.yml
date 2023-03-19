@@ -45,15 +45,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "https://github.com/vijayboopathy/websites/blob/main/vijay.run/static/favicon/favicon.ico"
-    favicon16x16: "https://github.com/vijayboopathy/websites/blob/main/vijay.run/static/favicon/favicon-16x16.png"
-    favicon32x32: "https://github.com/vijayboopathy/websites/blob/main/vijay.run/static/favicon/favicon-32x32.png"
-    apple_touch_icon: "https://github.com/vijayboopathy/websites/blob/main/vijay.run/static/favicon/apple-touch-icon.png"
-    safari_pinned_tab: "https://github.com/vijayboopathy/websites/blob/main/vijay.run/static/favicon/favicon.ico"
+    favicon: "https://ik.imagekit.io/ob78dnebo/android-chrome-512x512.png?updatedAt=1679223839873"
+    favicon16x16: "https://ik.imagekit.io/ob78dnebo/favicon-16x16.png?updatedAt=1679223839645"
+    favicon32x32: "https://ik.imagekit.io/ob78dnebo/favicon-32x32.png?updatedAt=1679223839690"
+    apple_touch_icon: "https://ik.imagekit.io/ob78dnebo/apple-touch-icon.png?updatedAt=1679223839693"
+    safari_pinned_tab: "https://ik.imagekit.io/ob78dnebo/apple-touch-icon.png?updatedAt=1679223839693"
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
+    icon: https://ik.imagekit.io/ob78dnebo/apple-touch-icon.png?updatedAt=1679223839693
     iconHeight: 35
 
   # profile-mode
@@ -112,7 +112,7 @@ menu:
   main:
     - identifier: blog
       name: blog
-      url: /content/
+      url: /blog/
       weight: 10
     - identifier: resume
       name: resume
