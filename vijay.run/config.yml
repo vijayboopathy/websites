@@ -112,7 +112,7 @@ menu:
   main:
     - identifier: blog
       name: blog
-      url: /blog/
+      url: /content/
       weight: 10
     - identifier: resume
       name: resume
