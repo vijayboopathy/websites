@@ -30,3 +30,14 @@ theme = "PaperMod"
     name = "Bookmarks"
     url = "/bookmarks/"
     weight = 50
+
+[params]
+  homeInfoParams = { }
+  profileMode = { }
+  assets = { }
+  assets.disableFingerprinting = true
+  assets.favicon = "/images/profile.png"
+  assets.favicon16x16 = "/images/profile.png"
+  assets.favicon32x32 = "/images/profile.png"
+  assets.apple_touch_icon = "/images/profile.png"
+  assets.safari_pinned_tab = "/images/profile.png"
