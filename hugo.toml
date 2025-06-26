@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://vijay.run/'
 languageCode = 'en-us'
 title = 'The Toil Story'
 author = 'Vijay'
@@ -34,10 +34,10 @@ theme = "PaperMod"
 [params]
   homeInfoParams = { }
   profileMode = { }
-  assets = { }
-  assets.disableFingerprinting = true
-  assets.favicon = "/images/profile.png"
-  assets.favicon16x16 = "/images/profile.png"
-  assets.favicon32x32 = "/images/profile.png"
-  assets.apple_touch_icon = "/images/profile.png"
-  assets.safari_pinned_tab = "/images/profile.png"
+  [params.assets]
+  disableFingerprinting = true
+  favicon = "/images/profile.png"
+  favicon16x16 = "/images/profile.png"
+  favicon32x32 = "/images/profile.png"
+  apple_touch_icon = "/images/profile.png"
+  safari_pinned_tab = "/images/profile.png"
