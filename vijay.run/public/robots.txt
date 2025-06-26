@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://www.vijay.run/sitemap.xml
