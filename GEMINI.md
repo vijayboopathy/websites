@@ -38,7 +38,8 @@ This document outlines a 5-stage plan to create a simple, easy-to-maintain perso
     1.  Create a new repository on GitHub and push the project.
     2.  Connect the GitHub repository to a new site on Netlify.
     3.  Configure Netlify's build settings (e.g., set the Hugo version).
-    4.  Set up a custom domain (optional).
+        4. Set up a custom domain (optional).
+        *   **Pending:** Waiting for DNS propagation of A and CNAME records for `vijay.run` to Netlify.
 
 ## Stage 5: Adding Features & Long-term Maintenance
 
