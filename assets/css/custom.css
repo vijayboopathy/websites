@@ -60,3 +60,8 @@ a:hover {
     color: #666;
     margin-bottom: 1rem;
 }
+
+/* Hide the site title in the header */
+.header .logo a {
+    display: none !important;
+}
