@@ -31,11 +31,7 @@ assetDir = "assets"
     name = "Contact"
     url = "/contact/"
     weight = 40
-  [[menu.main]]
-    identifier = "bookmarks"
-    name = "Bookmarks"
-    url = "/bookmarks/"
-    weight = 50
+  
 
 [params]
   homeInfoParams = { }
