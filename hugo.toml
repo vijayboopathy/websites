@@ -33,7 +33,14 @@ theme = "PaperMod"
 
 [params]
   homeInfoParams = { }
-  profileMode = { }
+  [params.profileMode]
+    enabled = true
+    title = "Vijayboopathy Elangovan"
+    subtitle = "Site Reliability Engineer @ Paylocity(formerly Airbase) | Linux, Cloud, DevOps"
+    imageUrl = "/images/profile.png"
+    imageWidth = 150
+    imageHeight = 150
+    imageTitle = "Vijayboopathy Elangovan"
   [params.assets]
   disableFingerprinting = true
   favicon = "/images/profile.png"
