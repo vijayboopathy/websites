@@ -41,15 +41,15 @@ This document outlines a 5-stage plan to create a simple, easy-to-maintain perso
         4. Set up a custom domain (optional).
         *   **Pending:** Waiting for DNS propagation of A and CNAME records for `vijay.run` to Netlify.
 
-## Stage 5: Adding Features & Long-term Maintenance
+## Stage 5: Adding Features & Long-term Maintenance [DONE]
 
 *   **Objective:** Enhance the site with new functionality and establish a maintenance routine.
 *   **Tasks:**
-    1.  Add a blog section for articles or updates.
-    2.  Integrate a privacy-respecting analytics service (e.g., Plausible).
-    3.  Add a contact form using a service like Netlify Forms.
-    4.  Create a `README.md` with instructions for future maintenance.
-    5.  Schedule periodic checks (e.g., every 6 months) to update the Hugo version and theme.
+    1.  Add a blog section for articles or updates. [DONE]
+    2.  Integrate a privacy-respecting analytics service (e.g., Plausible). [DONE]
+    3.  Add a contact form using a service like Netlify Forms. [DONE]
+    4.  Create a `README.md` with instructions for future maintenance. [DONE]
+    5.  Schedule periodic checks (e.g., every 6 months) to update the Hugo version and theme. (Note: This is a process, not a code change. Remember to set up external reminders for this!)
 
 ## Secrets and Configuration
 

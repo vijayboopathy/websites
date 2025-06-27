@@ -33,6 +33,22 @@
 &lt;p&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/vibee&#34;&gt;linkedin.com/in/vibee&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Personal Website:&lt;/strong&gt; &lt;a href=&#34;https://www.memeverse.cc&#34;&gt;www.memeverse.cc&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Twitter:&lt;/strong&gt; &lt;a href=&#34;https://x.com/vijayboopathy&#34;&gt;@vijayboopathy&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;send-me-a-message&#34;&gt;Send me a message&lt;/h3&gt;
+&lt;form name=&#34;contact&#34; method=&#34;POST&#34; data-netlify=&#34;true&#34;&gt;
+  &lt;p&gt;
+    &lt;label&gt;Name: &lt;input type=&#34;text&#34; name=&#34;name&#34; /&gt;&lt;/label&gt;
+  &lt;/p&gt;
+  &lt;p&gt;
+    &lt;label&gt;Email: &lt;input type=&#34;email&#34; name=&#34;email&#34; /&gt;&lt;/label&gt;
+  &lt;/p&gt;
+  &lt;p&gt;
+    &lt;label&gt;Message: &lt;textarea name=&#34;message&#34;&gt;&lt;/textarea&gt;&lt;/label&gt;
+  &lt;/p&gt;
+  &lt;p&gt;
+    &lt;button type=&#34;submit&#34;&gt;Send&lt;/button&gt;
+  &lt;/p&gt;
+&lt;/form&gt;
 &lt;p&gt;Looking forward to hearing from you!&lt;/p&gt;</description>
     </item>
     <item>

@@ -12,6 +12,11 @@ assetDir = "assets"
     url = "/"
     weight = 10
   [[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    url = "/posts/"
+    weight = 25
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
@@ -51,3 +56,8 @@ assetDir = "assets"
   safari_pinned_tab = "/images/profile.png"
   [params.label]
   text = ""
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
