@@ -10,7 +10,7 @@ I'm always open to connecting with fellow DevOps enthusiasts, discussing new tec
 
 **LinkedIn:** [linkedin.com/in/vibee](https://www.linkedin.com/in/vibee)
 
-**Personal Website:** [www.vijay.run](https://www.vijay.run)
+**Personal Website:** [www.memeverse.cc](https://www.memeverse.cc)
 
 **Twitter:** [@vijayboopathy](https://x.com/vijayboopathy)
 

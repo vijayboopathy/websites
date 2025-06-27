@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vijayboopathy Elangovan</title>
+    <link>https://memeverse.cc/</link>
+    <description>Recent content on Vijayboopathy Elangovan</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jun 2025 10:00:00 +0530</lastBuildDate>
+    <atom:link href="https://memeverse.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://memeverse.cc/about/</link>
+      <pubDate>Thu, 26 Jun 2025 10:00:00 +0530</pubDate>
+      <guid>https://memeverse.cc/about/</guid>
+      <description>&lt;p&gt;As a Site Reliability Engineer at Airbase, I ensure the availability and performance of production services that serve thousands of customers. I manage daily deployments to production servers, maintain the CICD infrastructure using GitHub Action self-hosted runners on AWS, and troubleshoot and resolve any issues with the platform, including Postgres, Redis, Heroku dynos, DNS, and other related components.&lt;/p&gt;
+&lt;p&gt;I have over nine years of experience as an SRE/DevOps Engineer, working with multiple clients in the start-up space. I have detailed technical knowledge and hands-on experience in the DevOps discipline, including the implementation of container-based orchestration solutions using Rancher and Kubernetes. I have also automated most of the cloud operations using Python, Bash, and Ansible, and optimized the AWS usage, reducing the monthly bill by 30%. I hold a Bachelor of Engineering degree in Mechanical Engineering from Anna University. I am passionate about DevOps and continuously learning new technologies and skills. I am currently diving deep into the Linux world and taking a dig at Go. I am looking for opportunities to collaborate and share my expertise with other DevOps enthusiasts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bookmarks</title>
+      <link>https://memeverse.cc/bookmarks/</link>
+      <pubDate>Thu, 26 Jun 2025 10:00:00 +0530</pubDate>
+      <guid>https://memeverse.cc/bookmarks/</guid>
+      <description>&lt;p&gt;This page will contain a collection of interesting articles and resources.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Get in Touch</title>
+      <link>https://memeverse.cc/contact/</link>
+      <pubDate>Thu, 26 Jun 2025 10:00:00 +0530</pubDate>
+      <guid>https://memeverse.cc/contact/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m always open to connecting with fellow DevOps enthusiasts, discussing new technologies, or exploring collaboration opportunities. Feel free to reach out through any of the channels below!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:vijayboopathy.e@gmail.com&#34;&gt;vijayboopathy.e@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/vibee&#34;&gt;linkedin.com/in/vibee&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Personal Website:&lt;/strong&gt; &lt;a href=&#34;https://www.memeverse.cc&#34;&gt;www.memeverse.cc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Twitter:&lt;/strong&gt; &lt;a href=&#34;https://x.com/vijayboopathy&#34;&gt;@vijayboopathy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Looking forward to hearing from you!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Projects &amp; Contributions</title>
+      <link>https://memeverse.cc/projects/</link>
+      <pubDate>Thu, 26 Jun 2025 10:00:00 +0530</pubDate>
+      <guid>https://memeverse.cc/projects/</guid>
+      <description>&lt;p&gt;Throughout my career, I&amp;rsquo;ve had the opportunity to work on a variety of impactful projects and contribute to significant improvements in system reliability and development workflows. Here are some highlights:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;At Paylocity (formerly Airbase):&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ensuring production services consistently meet their SLAs, maintaining high availability for thousands of customers.&lt;/li&gt;
+&lt;li&gt;Managing daily deployments to production servers, ensuring smooth and reliable releases.&lt;/li&gt;
+&lt;li&gt;Maintaining and optimizing the CI/CD infrastructure, specifically focusing on GitHub Actions self-hosted runners on AWS.&lt;/li&gt;
+&lt;li&gt;Troubleshooting and resolving complex platform issues, including those related to Postgres, Redis, Heroku dynos, and DNS.&lt;/li&gt;
+&lt;li&gt;Actively working to improve developer productivity through metric-driven optimizations and close collaboration with development teams.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;At Equinix:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
