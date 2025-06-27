@@ -1,2 +1,5 @@
 .hugo_build.lock
 Profile.pdf
+resources/
+image.png
+reference.html
