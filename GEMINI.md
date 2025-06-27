@@ -22,7 +22,7 @@ This document outlines a 5-stage plan to create a simple, easy-to-maintain perso
     2.  Configure the `hugo.toml` file with the site title, author name, and theme settings.
     3.  Add placeholder content to the new pages.
 
-## Stage 3: Customization and Personalization
+## Stage 3: Customization and Personalization [DONE]
 
 *   **Objective:** Tailor the website's appearance to reflect a personal brand.
 *   **Tasks:**
@@ -30,7 +30,7 @@ This document outlines a 5-stage plan to create a simple, easy-to-maintain perso
     2.  Develop a simple logo or a personalized header.
     3.  Refine the content on all pages with actual project details, biographical information, and contact methods.
 
-## Stage 4: Deployment and Automation (CI/CD)
+## Stage 4: Deployment and Automation (CI/CD) [DONE]
 
 *   **Objective:** Publish the website and automate the deployment process.
 *   **Platform:** Use Netlify for free hosting and its seamless Git-based workflow.
